@@ -98,3 +98,5 @@ This is a second line.
 <!-- This content will not appear in the rendered Markdown -->
 
 Let's rename \*our-new-project\* to \*our-old-project\*.
+
+<center><img src="./path.png" width=30%></center>
